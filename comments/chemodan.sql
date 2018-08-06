@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS `comments` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `email` VARCHAR(45) NULL,
+  `comment` VARCHAR(355) NULL,
+  `subject` VARCHAR(45) NULL,
+  `ipclient` VARCHAR(45) NULL,
+  PRIMARY KEY (`id`))
+ENGINE = InnoDB

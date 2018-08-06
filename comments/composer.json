@@ -1,0 +1,12 @@
+{
+    "name": "amandos/chemodan",
+    "description": "chemodan test api",
+    "type": "library",
+    "authors": [
+        {
+            "name": "alshin",
+            "email": "amandos94@gmail.com"
+        }
+    ],
+    "require": {}
+}
